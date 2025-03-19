@@ -2,10 +2,10 @@
 The **Cache Simulation Project** is designed to give an overview on the scenarios of the assigned cache mapping and replacement policy. This project contains various test case scenarios to analyze and differentiate each case.
 
 ## Specifications
-1. Cache line = 16 words
-2. Number of cache blocks = 32 blocks
-3. Read Policy: non load-through
-4. Full Associative + MRU
+* Cache line = 16 words
+*  Number of cache blocks = 32 blocks
+*  Read Policy: non load-through
+*  Full Associative + MRU
 
 ## Test cases
 1. Sequential sequence: up to 2n cache block. Repeat the sequence four times. Example: 0,1,2,3,...,63 {4x}
